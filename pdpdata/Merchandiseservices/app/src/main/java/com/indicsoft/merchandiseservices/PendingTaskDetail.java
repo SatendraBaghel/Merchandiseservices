@@ -84,6 +84,7 @@ public class PendingTaskDetail extends AppCompatActivity {
     }
 
     //
+    //
     private void getDataFromIntent() {
         Bundle bundle = getIntent().getExtras();
         if (bundle != null) {
